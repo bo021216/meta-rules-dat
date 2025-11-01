@@ -13,7 +13,8 @@ payload:
     - +.graph.whatsapp.com
     - +.graph.whatsapp.net
       # WhatsApp IP 规则
+    - IP-CIDR,57.144.145.54/32,no-resolve
     - IP-CIDR,57.144.187.54/32,no-resolve
     - IP-CIDR,157.240.209.62/32,no-resolve
     - IP-CIDR,31.13.82.48/32,no-resolve
-    - IP-CIDR,57.144.145.54/32,no-resolve
+
